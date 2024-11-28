@@ -1,3 +1,4 @@
 - **20.nov**:Link GitHub to FreeCodeCamp
 - **20.nov**:888
-- **26.nov**:56 - 78 return value. fron step 78-> if
+- **26.nov**:56 - 77 return value. fron step 78-> if
+- **28.nov**:78 - 99 boolean + quiz
